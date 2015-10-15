@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <ListaIncidencias>
+        <Idioma>es</Idioma>
+        <Incidencia>
+            <Titulo>Valparaíso: Angostamiento por trabajos en cauce Av Argentina</Titulo>
+            <Subtitulo>Se recomienda a los automovilistas manejar con precaución y atentos a la señalética.</Subtitulo>
+            <Categoría>Programados</Categoría>
+            <Texto>Texto en html para página web</Texto>
+            <Coordenadas>
+                <Latitud>-33.045197</Latitud>
+                <Longitud>-71.605076</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-07-10 13:00:00</FechaInicio>
+            <FechaFin>2015-08-30 23:59:00</FechaFin>
+            <FechaActualizacion>2015-07-10 08:40:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Viña del Mar: Trabajos de mejoramiento vial en Puente Casino</Titulo>
+            <Subtitulo>Las faenas mantienen el tránsito alternado por puente ecuador.</Subtitulo>
+            <Categoría>Programados</Categoría>
+            <Texto>Texto para pagina web.</Texto>
+            <Coordenadas>
+                <Latitud>-33.021159</Latitud>
+                <Longitud>-71.560734</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-08-15 08:00:00</FechaInicio>
+            <FechaFin>2015-08-31 23:59:00</FechaFin>
+            <FechaActualizacion>2015-08-10 06:37:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Viña del mar: Angostamientos de calzada por trabajos en Avenida Perú</Titulo>
+            <Subtitulo>Se recomienda a los automovilistas manejar con precaución y atentos a la señalética, respetando la velocidad máxima permitida por estos sectores de 70 km/h.</Subtitulo>
+            <Categoría>Última Hora</Categoría>
+            <Texto>Texto en html para página web</Texto>
+            <Coordenadas>
+                <Latitud>-33.016459</Latitud>
+                <Longitud>-71.558910</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-08-10 11:30:00</FechaInicio>
+            <FechaFin>2015-08-12 23:59:00</FechaFin>
+            <FechaActualizacion>2015-08-11 06:22:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Viña del mar: Angostamiento de calzada por trabajos</Titulo>
+            <Subtitulo>La medida se ubica en el sector de 8 norte llegando a San Martin, por lo que se sugiere tomar los resguardos necesarios para sus desplazamientos.</Subtitulo>
+            <Categoría>Programados</Categoría>
+            <Texto>Texto para página web</Texto>
+            <Coordenadas>
+                <Latitud>-33.014574</Latitud>
+                <Longitud>-71.555187</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-08-14 08:00:00</FechaInicio>
+            <FechaFin>2015-08-31 23:59:00</FechaFin>
+            <FechaActualizacion>2015-08-17 06:35:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Plaza de Viña: tránsito habilitado en todos sus tramos.</Titulo>
+            <Subtitulo>Se puede circular con normalidad</Subtitulo>
+            <Categoría>Última Hora</Categoría>
+            <Texto>Texto para web</Texto>
+            <Coordenadas>
+                <Latitud>-33.024564</Latitud>
+                <Longitud>-71.551807</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-08-17 08:00:00</FechaInicio>
+            <FechaFin>2015-08-17 23:00:00</FechaFin>
+            <FechaActualizacion>2015-08-17 06:35:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Incendio en Quinta Vergara.</Titulo>
+            <Subtitulo>Manejar con precaución, alta presencia de vehiculos de emergencia.</Subtitulo>
+            <Categoría>Última Hora</Categoría>
+            <Texto />
+            <Coordenadas>
+                <Latitud>-33.027024</Latitud>
+                <Longitud>-71.549500</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-08-15 09:00:00</FechaInicio>
+            <FechaFin>2015-08-15 23:59:00</FechaFin>
+            <FechaActualizacion>2015-08-15 06:48:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Angostamientos por trabajos en puente lusitania</Titulo>
+            <Subtitulo>Maneje con precaución.</Subtitulo>
+            <Categoría>Programados</Categoría>
+            <Texto>Texto para web</Texto>
+            <Coordenadas>
+                <Latitud>-33.032632</Latitud>
+                <Longitud>-71.531915</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-08-13 08:10:00</FechaInicio>
+            <FechaFin>2015-08-19 23:59:00</FechaFin>
+            <FechaActualizacion>2015-08-14 06:36:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Tránsito cortado en Camino Troncal.</Titulo>
+            <Subtitulo>La ruta que une Viña del mar con Quilpué se mantiene con tránsito detenido debido a la presencia de barricadas..</Subtitulo>
+            <Categoría>Última hora</Categoría>
+            <Texto />
+            <Coordenadas>
+                <Latitud>-33.035039</Latitud>
+                <Longitud>-71.486356</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-07-10 08:00:00</FechaInicio>
+            <FechaFin>2015-07-10 23:59:00</FechaFin>
+            <FechaActualizacion>2015-07-10 06:36:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Viña del Mar: desvío de tránsito en 15 norte</Titulo>
+            <Subtitulo>Primera etapa suspende tránsito en 15 Norte de 3 Oriente a 6 Oriente.</Subtitulo>
+            <Categoría>Programados</Categoría>
+            <Texto />
+            <Coordenadas>
+                <Latitud>-33.008677</Latitud>
+                <Longitud>-71.544775</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-07-10 09:00:00</FechaInicio>
+            <FechaFin>2015-07-31 23:59:00</FechaFin>
+            <FechaActualizacion>2015-07-10 06:38:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+
+    </ListaIncidencias>
+    <ListaIncidencias>
+        <Idioma>en</Idioma>
+    </ListaIncidencias>
+</xml>

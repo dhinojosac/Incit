@@ -1,0 +1,112 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!--   Header   -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="@color/fondo_header"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:weightSum="10"
+        android:layout_gravity="center">
+
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/roundedimageview"
+            android:contentDescription="desc"
+            android:layout_weight="3"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_weight="7">
+
+            <TextView
+                android:id="@+id/header_ciudad"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/letra_header"
+                android:fontFamily="sans-serif-thin"
+                android:textSize="30sp"
+                android:gravity="center_horizontal"
+                android:text="@string/txt_ciudad_header"/>
+
+            <TextView
+                android:id="@+id/header_clima"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/letra_header"
+                android:textSize="20sp"
+                android:gravity="center_horizontal"
+                android:text="@string/txt_clima_header"
+                android:fontFamily="sans-serif" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!--   Buttons   -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:weightSum="3"
+        android:background="@color/fondo_header">
+
+        <Button
+            android:id="@+id/boton_refresh"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="----"
+            android:drawableLeft="@drawable/ic_action_refresh"
+            android:background="@drawable/map_button"
+            style="@style/button_map_text"/>
+
+        <Button
+            android:id="@+id/boton_rutafrec"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="----"
+            android:drawableLeft="@drawable/ic_rutafrec"
+            android:background="@drawable/map_button"
+            style="@style/button_map_text"/>
+
+        <Button
+            android:id="@+id/boton_mapa_header"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="RADIO"
+            android:drawableLeft="@drawable/ic_button_map"
+            android:background="@drawable/map_button"
+            style="@style/button_map_text"/>
+
+
+    </LinearLayout>
+
+    <!-- LISTA -->
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/list">
+    </ListView>
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@android:id/empty" />
+
+</LinearLayout>

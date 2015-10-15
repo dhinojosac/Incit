@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="edtxt_login">#ffc8f3d9</color>
+    <color name="color_background">#ff8ec57a</color>
+    <color name="gris_login">#fff8f1ff</color>
+    <color name="color_boton">#ff314c97</color>
+    <color name="letra_Login">#ffe3e0e0</color>
+    <color name="background_blanco">#fff8f1ff</color>
+    <color name="fondo_header">#3CA8DF</color>
+    <color name="letra_header">#fffbffff</color>
+    <color name="letra_incidentevista">#ff314c97</color>
+    <color name="fondo_boton_header">#90CAF9</color>
+    <color name="color_txt_loading">#fffbffff</color>
+    <color name="fondo_incidente">#2bf9b01b</color>
+</resources>
