@@ -11,5 +11,8 @@
     <color name="letra_incidentevista">#ff314c97</color>
     <color name="fondo_boton_header">#90CAF9</color>
     <color name="color_txt_loading">#fffbffff</color>
-    <color name="fondo_incidente">#2bf9b01b</color>
+    <color name="fondo_incidente">#edf7ff</color>
+    <color name="orange_light_app">#FAB01B</color>
+    <color name="orange_dark_app">#F5951A</color>
+
 </resources>

@@ -3,6 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 22
     buildToolsVersion "22.0.1"
+    //ompileOptions.encoding "ISO-8859-1"
 
     defaultConfig {
         applicationId "com.braproject.negro.incit"
@@ -25,4 +26,16 @@ dependencies {
     compile 'com.google.android.gms:play-services:7.8.0'
     compile 'com.google.android.gms:play-services-maps:7.5.0'
     compile 'com.google.android.gms:play-services-location:7.5.0'
+    compile 'de.greenrobot:eventbus:2.4.0'
+
+    //rest interactions
+    compile "com.squareup.retrofit2:retrofit:2.1.0"
+    //JSON Parsing
+    compile "com.squareup.retrofit2:converter-gson:2.1.0"
+    compile 'com.google.code.gson:gson:2.6.2'
+    //RxJava
+    compile 'io.reactivex:rxandroid:1.2.0'
+    compile 'io.reactivex:rxjava:1.1.5'
+    compile "com.squareup.retrofit2:adapter-rxjava:2.1.0"
+
 }

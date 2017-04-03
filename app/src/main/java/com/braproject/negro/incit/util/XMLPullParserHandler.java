@@ -1,5 +1,7 @@
 package com.braproject.negro.incit.util;
 
+import com.braproject.negro.incit.models.Incidente;
+
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
@@ -62,7 +64,7 @@ public class XMLPullParserHandler {
                             incidente.setLatitud(text);
                         } else if (tagname.equalsIgnoreCase("Longitud")) {
                             incidente.setLongitud(text);
-                        } else if (tagname.equalsIgnoreCase("Categoria")) {
+                        } else if (tagname.equalsIgnoreCase("Categoría")) {         //Problema con acento
                             incidente.setCategoria(text);
                         } else if (tagname.equalsIgnoreCase("TransporteAfectado")) {
                             incidente.setTransporteAfectado(text);

@@ -13,10 +13,14 @@
     <string name="txt_radio">Radio de busqueda</string>
     <string name="desc">Imagen del logo</string>
     <string name="title_activity_home">HomeActivity</string>
-    <string name="txt_ciudad_header">Viña del Mar</string>
-    <string name="txt_clima_header">Clima: 14°</string>
+    <string name="txt_ciudad_header">" "</string>
+    <string name="txt_clima_header">" "</string>
     <string name="title_activity_map_once_incident">Map</string>
 
     <string name="action_share">Compartir</string>
     <string name="title_activity_maps_incident_radio">Map</string>
+    <string name="lbl_btn1">FILTRADOS</string>
+    <string name="lbl_btn2">LISTA</string>
+    <string name="lbl_btn3">MAPA</string>
+    <string name="action_about">About</string>
 </resources>

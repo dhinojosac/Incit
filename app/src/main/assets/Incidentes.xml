@@ -5,7 +5,7 @@
         <Incidencia>
             <Titulo>Valparaíso: Angostamiento por trabajos en cauce Av Argentina</Titulo>
             <Subtitulo>Se recomienda a los automovilistas manejar con precaución y atentos a la señalética.</Subtitulo>
-            <Categoría>Programados</Categoría>
+            <Categoría>Arreglos</Categoría>
             <Texto>Texto en html para página web</Texto>
             <Coordenadas>
                 <Latitud>-33.045197</Latitud>
@@ -23,7 +23,7 @@
         <Incidencia>
             <Titulo>Viña del Mar: Trabajos de mejoramiento vial en Puente Casino</Titulo>
             <Subtitulo>Las faenas mantienen el tránsito alternado por puente ecuador.</Subtitulo>
-            <Categoría>Programados</Categoría>
+            <Categoría>Arreglos</Categoría>
             <Texto>Texto para pagina web.</Texto>
             <Coordenadas>
                 <Latitud>-33.021159</Latitud>
@@ -41,7 +41,7 @@
         <Incidencia>
             <Titulo>Viña del mar: Angostamientos de calzada por trabajos en Avenida Perú</Titulo>
             <Subtitulo>Se recomienda a los automovilistas manejar con precaución y atentos a la señalética, respetando la velocidad máxima permitida por estos sectores de 70 km/h.</Subtitulo>
-            <Categoría>Última Hora</Categoría>
+            <Categoría>Arreglos</Categoría>
             <Texto>Texto en html para página web</Texto>
             <Coordenadas>
                 <Latitud>-33.016459</Latitud>
@@ -57,9 +57,9 @@
             <ListaLineas />
         </Incidencia>
         <Incidencia>
-            <Titulo>Viña del mar: Angostamiento de calzada por trabajos</Titulo>
+            <Titulo>Viña del mar: Colision multiple</Titulo>
             <Subtitulo>La medida se ubica en el sector de 8 norte llegando a San Martin, por lo que se sugiere tomar los resguardos necesarios para sus desplazamientos.</Subtitulo>
-            <Categoría>Programados</Categoría>
+            <Categoría>Colision</Categoría>
             <Texto>Texto para página web</Texto>
             <Coordenadas>
                 <Latitud>-33.014574</Latitud>
@@ -77,7 +77,7 @@
         <Incidencia>
             <Titulo>Plaza de Viña: tránsito habilitado en todos sus tramos.</Titulo>
             <Subtitulo>Se puede circular con normalidad</Subtitulo>
-            <Categoría>Última Hora</Categoría>
+            <Categoría>EMERGENCIA</Categoría>
             <Texto>Texto para web</Texto>
             <Coordenadas>
                 <Latitud>-33.024564</Latitud>
@@ -95,7 +95,7 @@
         <Incidencia>
             <Titulo>Incendio en Quinta Vergara.</Titulo>
             <Subtitulo>Manejar con precaución, alta presencia de vehiculos de emergencia.</Subtitulo>
-            <Categoría>Última Hora</Categoría>
+            <Categoría>Precaucion</Categoría>
             <Texto />
             <Coordenadas>
                 <Latitud>-33.027024</Latitud>
@@ -113,7 +113,7 @@
         <Incidencia>
             <Titulo>Angostamientos por trabajos en puente lusitania</Titulo>
             <Subtitulo>Maneje con precaución.</Subtitulo>
-            <Categoría>Programados</Categoría>
+            <Categoría>Arreglos</Categoría>
             <Texto>Texto para web</Texto>
             <Coordenadas>
                 <Latitud>-33.032632</Latitud>
@@ -131,7 +131,7 @@
         <Incidencia>
             <Titulo>Tránsito cortado en Camino Troncal.</Titulo>
             <Subtitulo>La ruta que une Viña del mar con Quilpué se mantiene con tránsito detenido debido a la presencia de barricadas..</Subtitulo>
-            <Categoría>Última hora</Categoría>
+            <Categoría>Precaucion</Categoría>
             <Texto />
             <Coordenadas>
                 <Latitud>-33.035039</Latitud>
@@ -149,11 +149,85 @@
         <Incidencia>
             <Titulo>Viña del Mar: desvío de tránsito en 15 norte</Titulo>
             <Subtitulo>Primera etapa suspende tránsito en 15 Norte de 3 Oriente a 6 Oriente.</Subtitulo>
-            <Categoría>Programados</Categoría>
+            <Categoría>Arreglos</Categoría>
             <Texto />
             <Coordenadas>
                 <Latitud>-33.008677</Latitud>
                 <Longitud>-71.544775</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-07-10 09:00:00</FechaInicio>
+            <FechaFin>2015-07-31 23:59:00</FechaFin>
+            <FechaActualizacion>2015-07-10 06:38:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+
+
+        <Incidencia>
+            <Titulo>Incendio en Quinta Vergara.</Titulo>
+            <Subtitulo>Manejar con precaución, alta presencia de vehiculos de emergencia.</Subtitulo>
+            <Categoría>Precaucion</Categoría>
+            <Texto />
+            <Coordenadas>
+                <Latitud>-33.0295652</Latitud>
+                <Longitud>-71.5811797</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-08-15 09:00:00</FechaInicio>
+            <FechaFin>2015-08-15 23:59:00</FechaFin>
+            <FechaActualizacion>2015-08-15 06:48:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Angostamientos por trabajos en puente lusitania</Titulo>
+            <Subtitulo>Maneje con precaución.</Subtitulo>
+            <Categoría>Arreglos</Categoría>
+            <Texto>Texto para web</Texto>
+            <Coordenadas>
+                <Latitud>-33.029769</Latitud>
+                <Longitud>-71.586323</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-08-13 08:10:00</FechaInicio>
+            <FechaFin>2015-08-19 23:59:00</FechaFin>
+            <FechaActualizacion>2015-08-14 06:36:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Tránsito cortado en Camino Troncal.</Titulo>
+            <Subtitulo>La ruta que une Viña del mar con Quilpué se mantiene con tránsito detenido debido a la presencia de barricadas..</Subtitulo>
+            <Categoría>Precaucion</Categoría>
+            <Texto />
+            <Coordenadas>
+                <Latitud>-33.0298943</Latitud>
+                <Longitud>-71.5830384</Longitud>
+            </Coordenadas>
+            <FechaCreacion />
+            <FechaInicio>2015-07-10 08:00:00</FechaInicio>
+            <FechaFin>2015-07-10 23:59:00</FechaFin>
+            <FechaActualizacion>2015-07-10 06:36:00</FechaActualizacion>
+            <Autor>Transporteinforma</Autor>
+            <TransporteAfectado>transporte_terrestre</TransporteAfectado>
+            <ListaParadas />
+            <ListaLineas />
+        </Incidencia>
+        <Incidencia>
+            <Titulo>Viña del Mar: desvío de tránsito en 15 norte</Titulo>
+            <Subtitulo>Primera etapa suspende tránsito en 15 Norte de 3 Oriente a 6 Oriente.</Subtitulo>
+            <Categoría>Arreglos</Categoría>
+            <Texto />
+            <Coordenadas>
+                <Latitud>-33.0264921</Latitud>
+                <Longitud>-71.5868295</Longitud>
             </Coordenadas>
             <FechaCreacion />
             <FechaInicio>2015-07-10 09:00:00</FechaInicio>
